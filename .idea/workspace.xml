@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RedditCloneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Reddit_Clone" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ricardorodrigues.socialnetwork.RedditCloneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
